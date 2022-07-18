@@ -12,6 +12,7 @@ public class BrowserProfile {
 		int d = a*b;
 		System.out.println(c);
 		System.out.println(d);
+		System.out.println("From new branch");
 
 	}
 
