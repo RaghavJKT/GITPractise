@@ -10,9 +10,11 @@ public class BrowserProfile {
 		int b = 200;
 		int c = a+b;
 		int d = a*b;
+		int e = b-a;
 		System.out.println(c);
 		System.out.println(d);
-		System.out.println("From new branch");
+		System.out.println("from new branch");
+		
 
 	}
 
