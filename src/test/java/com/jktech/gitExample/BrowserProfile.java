@@ -9,7 +9,9 @@ public class BrowserProfile {
 		int a=100;
 		int b = 200;
 		int c = a+b;
+		int d = b-a;
 		System.out.println(c);
+		System.out.println(d);
 
 	}
 
